@@ -7,7 +7,6 @@ class LoginBox extends React.Component {
     submitLogin(e) { }
     render() {
         return (<div className="inner-container">
-        
             <div className="box">
 
                 <div className="input-group">
